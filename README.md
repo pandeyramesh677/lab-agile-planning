@@ -2,7 +2,7 @@
 
 # Agile Project: Counter Service Development
 
-## Sprint X (Date Range)
+## Sprint X (May 6 - May 16)
 
 ### Sprint Goal:
 The goal of this sprint was to deploy the counter service to the cloud and address technical debt.
