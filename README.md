@@ -2,7 +2,7 @@
 
 # Agile Project: Counter Service Development
 
-## Sprint X (May 2 - May 16)
+## Sprint 1 (May 2 - May 16)
 
 ### Sprint Goal:
 The goal of this sprint was to implement key enhancements and features for the counter service.
